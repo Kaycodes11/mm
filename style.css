@@ -3,6 +3,7 @@ body {
   text-align: center;
 }
 h1 {
-  border: black solid 3px;
+  border: white dotted 3px;
   display: inline;
+  color: black;
 }
